@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "tushar34",
+      "mobile": "9412579020",
+      "email": "atulsingh40955@gmail.in",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Mangal Kumar",
+      "mobile": "9412579020",
+      "email": "recep@1234",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "atul",
+      "mobile": "829431577989",
+      "email": "owner@1234",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "Manish",
+      "mobile": "7900264476",
+      "email": "manager@1234",
+      "password": "12345",
+      "id": 5
+    }
+  ]
+}
